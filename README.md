@@ -1,1 +1,1 @@
-<h1 align="center"> <img src="william.jpg" alt="william"></h1> 
+<h1 align="center"> <img src="william.png" alt="william"></h1> 
